@@ -1,0 +1,22 @@
+.inputContainer {
+	width: 50vw;
+}
+
+.inputLabel {
+	display: inline-block;
+	width: 20vw;
+	padding: 2px;
+	margin-right: 10px;
+	background-color: #494f55;
+	color: rgba(255, 255, 255, 0.87);
+	border-radius: 4px;
+	border: 1px solid transparent;
+}
+
+.inputField {
+	border-color: grey;
+	border-width: 3px;
+	background: rgba(255, 255, 255, 0.87);
+	height: 20px;
+	width: 20vw;
+}
